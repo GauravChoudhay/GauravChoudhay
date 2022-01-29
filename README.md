@@ -1,11 +1,11 @@
 <h1 align="center">Hi there <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">I'm Gaurav Choudhary. </h1>
 <h3 align="center">I am a final year engineering student at ADGITM .</h3>
 
-- 🌱 I’m currently learning **REACT and BACKEND.**
+- 🌱 I’m currently working on **Blockchain**
 
 - 👀 I’m interested in learning new technologies , tools , logic and love to implement them to make new cool Projects
 
-- ⚡ I’m currently learning Data Structures & Algorithms and Full Stack Web D. at Pepcoding.
+- ⚡ I have good knowlegde of Data Structures & Algorithms and Full Stack Web Dev.
 
 - 📫 How to reach me **gauravchoudhary7070@gmail.com**
 

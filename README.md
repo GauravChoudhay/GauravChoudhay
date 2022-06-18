@@ -1,5 +1,5 @@
 <h1 align="center">Hi there <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">I'm Gaurav Choudhary. </h1>
-<h3 align="center">I am a final year engineering student at ADGITM .</h3>
+<h3 align="center">Final year engineering student at ADGITM .</h3>
 
 - 🌱 I’m currently working on **Blockchain**
 
